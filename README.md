@@ -32,7 +32,7 @@ if you like what I do, support me 🥺👉👈
 
 <a href="https://yoomoney.ru/to/41001432771966" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="donate" width="150" ></a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anomal3&show_icons=true&theme=gruvbox)](https://github.com/anomal3/PayScrowing)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anomal3&show_icons=true&theme=gruvbox&show=reviews,discussions_started,discussions_answered,prs_merged)](https://github.com/anomal3/PayScrowing)
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anomal3&show_icons=true&theme=gruvbox" alt="anomal3" />
 
 <!--
