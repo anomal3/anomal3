@@ -25,6 +25,8 @@ I also love creating games, and some of them are already available for download.
 
 ## Skills
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anomal3)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anomal3&layout=compact&hide_progress=false)
 
 ## Contact
@@ -35,8 +37,6 @@ if you like what I do, support me 🥺👉👈
 
 <a href="https://yoomoney.ru/to/41001432771966" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="donate" width="150" ></a>
 
-
-📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anomal3&show_icons=true&theme=gruvbox" alt="anomal3" />
 
