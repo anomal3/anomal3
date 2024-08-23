@@ -28,9 +28,6 @@ I also love creating games, and some of them are already available for download.
 - [Telegram @anomal6](https://t.me/anomal6)
 - [Public Server on Discord](https://discord.gg/93VBRRUvvz)
 
-if you like what I do, support me 🥺👉👈
-
-<a href="https://yoomoney.ru/to/41001432771966" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="donate" width="150" ></a>
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anomal3&show_icons=true&theme=gruvbox&include_all_commits=true" alt="anomal3" />
