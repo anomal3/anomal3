@@ -16,13 +16,21 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 15
     steps:
-      - name: Profile card (classic template + skills)
+      - name: Profile card (classic template)
         uses: lowlighter/metrics@latest
         with:
           filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           template: classic
           config_timezone: Europe/Moscow
+
+      - name: Languages used across repositories
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          template: classic
+          base: ""
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
