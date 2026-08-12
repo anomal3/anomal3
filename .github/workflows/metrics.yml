@@ -35,6 +35,7 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
           plugin_languages_limit: 8
+          debug: yes
 
       - name: Isometric commit calendar
         uses: lowlighter/metrics@latest
