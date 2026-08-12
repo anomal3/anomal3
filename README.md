@@ -1,148 +1,40 @@
-<h1 align="center">Roman · anomal3</h1>
-<p align="center"><i>Unity/C# game dev · native Swift tools for macOS · .NET on the side</i></p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=447FF7&center=true&vCenter=true&multiline=true&width=435&height=80&separator=%3C&lines=Hi%2C+my+name+is+Roman+Anderson+and+%3CI+am+a+beginner+exp+programmer+c%23%3CConsole.WriteLine(%22Hello+World%22);)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anomal3&label=profile+views&color=447FF7&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/anomal3?label=followers&style=flat-square&color=447FF7" />
-</p>
+---
+work a little bit in
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![TeamCity](https://img.shields.io/badge/teamcity-000000.svg?style=for-the-badge&logo=teamcity&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+---
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anomal3&theme=solarized_dark)
 
-<br>
 
-## 🧭 Навыки
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anomal3&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anomal3&theme=solarized_dark)
 
-<table>
-<tr>
-<td valign="top" width="33%">
 
-**Game Dev**
-<br>
-![](https://img.shields.io/badge/Unity-●●●●●-black?style=flat-square&logo=unity)
-![](https://img.shields.io/badge/C%23-●●●●●-239120?style=flat-square&logo=csharp&logoColor=white)
-![](https://img.shields.io/badge/Rider-●●●●○-black?style=flat-square&logo=rider)
+---
+known a little
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+---
+can do a little
+![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+---
+![](https://komarev.com/ghpvc/?username=anomal3)
 
-</td>
-<td valign="top" width="33%">
 
-**Native / Apple**
-<br>
-![](https://img.shields.io/badge/Swift-●●●●○-F05138?style=flat-square&logo=swift&logoColor=white)
-![](https://img.shields.io/badge/SwiftUI-●●●○○-0D96F6?style=flat-square&logo=swift&logoColor=white)
-![](https://img.shields.io/badge/AppKit-●●●○○-black?style=flat-square&logo=apple&logoColor=white)
 
-</td>
-<td valign="top" width="33%">
-
-**Backend / прочее**
-<br>
-![](https://img.shields.io/badge/.NET-●●●○○-5C2D91?style=flat-square&logo=dotnet&logoColor=white)
-![](https://img.shields.io/badge/Java-●●●○○-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![](https://img.shields.io/badge/Kafka%2FRabbitMQ-●●○○○-FF6600?style=flat-square)
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary>Полный список того, с чем работал</summary>
-<br>
-
-`C` · `C++` · `C#` · `Java` · `JavaScript` · `Lua` · `AssemblyScript` ·
-`.NET` · `JavaFX` · `Blazor` · `Bootstrap` · `Apache Kafka` · `RabbitMQ` ·
-`Unity` · `Swift` · `SwiftUI` · `AppKit` ·
-`Rider` · `Visual Studio` · `IntelliJ IDEA` · `TeamCity`
-
-</details>
-
-<br>
-
-## 🗂️ Проекты
-
-<table>
-<tr>
-<td width="50%">
-
-**[GitBranchStats](https://github.com/anomal3/GitBranchStats)**
-Обзор активности команды по веткам проекта
-`C#`
-
-</td>
-<td width="50%">
-
-**[NetworkSignalCore](https://github.com/anomal3/NetworkSignalCore)**
-Сетевая библиотека для Unity / Godot / standalone .NET
-`C#`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**[SstpClient](https://github.com/anomal3/SstpClient)**
-SSTP GUI-клиент для macOS
-`Swift`
-
-</td>
-<td width="50%">
-
-**[MacwinExplorer](https://github.com/anomal3/MacwinExplorer)**
-Файловый менеджер в стиле Windows Explorer, но для macOS
-`SwiftUI` · `AppKit`
-
-</td>
-</tr>
-<tr>
-<td width="50%" colspan="2">
-
-**[WebFileManager](https://github.com/anomal3/WebFileManager)**
-Веб файловый менеджер с деплоем как отдельным приложением, так и на IIS, поддержкой UNC-путей
-`HTML`
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## 📈 Метрики (обновляются GitHub Action'ом раз в день — без внешнего кэша)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/anomal3/anomal3/main/github-metrics.svg" />
-</p>
-
-<details>
-<summary>Как это подключить (metrics.yml)</summary>
-
-Это [lowlighter/metrics](https://github.com/lowlighter/metrics) — он рендерит SVG сам себе в репозиторий
-через Action по расписанию, поэтому нет проблемы с "не сразу обновляется": свежесть = частота крона.
-
-```yaml
-name: metrics
-on:
-  schedule: [{ cron: "0 */6 * * *" }]
-  push: { branches: [ main ] }
-  workflow_dispatch: {}
-jobs:
-  metrics:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: github-metrics.svg
-          token: ${{ '{{' }} secrets.METRICS_TOKEN {{ '}}' }}
-          config_timezone: Europe/Moscow
-          plugin_languages: yes
-          plugin_languages_analysis_timeout: 15
-          plugin_lines: yes
-          plugin_habits: yes
-          plugin_achievements: yes
-```
-
-(нужен `METRICS_TOKEN` — personal access token с правами `repo`, кладётся в Settings → Secrets репозитория)
-
-</details>
-
-<br>
-
-<p align="center">
-  Telegram: <a href="https://t.me/anomal6">@anomal6</a> · <a href="https://web.pynop.online/anomal3">web.pynop.online/anomal3</a>
-</p>
+<span>i'm watching you</span>
