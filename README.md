@@ -1,55 +1,43 @@
-<div align="center">
-
-# Hi, I'm Roman 👋
-
-### Game dev · Cross-platform tools · Backend tinkering
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=447FF7&center=true&vCenter=true&width=435&lines=Unity+%2B+C%23+game+developer;Native+macOS+%2F+Swift+tools;.NET+%2F+backend+tinkering;Always+shipping+something+small)](https://git.io/typing-svg)
-
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=447FF7&center=true&vCenter=true&multiline=true&width=435&height=80&separator=%3C&lines=Hi%2C+my+name+is+Roman+Anderson+and+%3CI+am+a+beginner+exp+programmer+c%23%3CConsole.WriteLine(%22Hello+World%22);)](https://git.io/typing-svg)
 
 ---
+work a little bit in
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![TeamCity](https://img.shields.io/badge/teamcity-000000.svg?style=for-the-badge&logo=teamcity&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+---
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anomal3&theme=solarized_dark)
 
-### 🧩 Что я делаю
 
-Пишу игры и инструменты на **Unity/C#**, ковыряюсь с нативными **macOS**-приложениями на **Swift**,
-и время от времени собираю бэкенд-штуки на **.NET**. Люблю маленькие полезные утилиты больше,
-чем большие фреймворки — почти все мои репозитории это "сделал, потому что было надо".
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anomal3&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anomal3&theme=solarized_dark)
 
-### 🛠️ Стек
-
-**Game Dev**
-![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![Rider](https://img.shields.io/badge/Rider-000000?style=flat-square&logo=Rider&logoColor=white&color=crimson)
-
-**Native / Apple**
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
-
-**Backend / прочее**
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=dotnet&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-000?style=flat-square&logo=apachekafka)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-
-**Инструменты**
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
-![TeamCity](https://img.shields.io/badge/TeamCity-000000?style=flat-square&logo=teamcity&logoColor=white)
 
 ---
+known a little
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+---
+can do a little
+![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+---
+![](https://komarev.com/ghpvc/?username=anomal3)
 
-### 📌 Избранные проекты
 
-| Проект | Описание | Стек |
-|---|---|---|
-| [**GitBranchStats**](https://github.com/anomal3/GitBranchStats) | Обзор активности команды по веткам проекта | C# |
-| [**SstpClient**](https://github.com/anomal3/SstpClient) | SSTP GUI-клиент для macOS | Swift |
-| [**NetworkSignalCore**](https://github.com/anomal3/NetworkSignalCore) | Сетевая библиотека для Unity / Godot / standalone .NET | C# |
-| [**WebFileManager**](https://github.com/anomal3/WebFileManager) | Веб файловый менеджер с поддержкой IIS и UNC-путей | HTML |
+
+<span>i'm watching you</span>
 | [**MacwinExplorer**](https://github.com/anomal3/MacwinExplorer) | Файловый менеджер в стиле Windows Explorer для macOS | Swift, SwiftUI, AppKit |
 
 ---
