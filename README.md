@@ -9,7 +9,7 @@
 
 <img src="github-metrics.languages.svg" alt="languages" width="70%" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=39FF14&background=0D1117&center=true&vCenter=true&width=500&lines=Hi%2C+I+am+Roman+Anderson;I+am+a+beginner+expert+programmer+%3A%29;Unity+%2F+C%23+%2F+Swift+%2F+.NET)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=39FF14&background=0D1117&center=true&vCenter=true&width=500&lines=Hi%2C+I+am+Roman+Anderson;I+am+a+beginner+expert+programmer+%3A%29;.NET+%2F+RUST+%2F+KOTLIN+%2F+C%2B%2B)](https://git.io/typing-svg)
 
 Hi, I'm watching you 👀
 
